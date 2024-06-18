@@ -14,10 +14,4 @@ Step 3: Relate the search traffic to stock price patterns.
 
 Step 4: Create a time series model with Prophet.
 
-## Works Cited
 
-Xpert Learning Assistant and various modules in Module 8 were used to inspire code to complete this assignment. Most notably Activity 3 Stock Volatility and Google Trends.
-
-## Question
-
-There is reference to a "Canada Data Frame" towards end of challenge. Is this a misprint?
